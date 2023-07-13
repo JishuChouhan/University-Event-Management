@@ -1,4 +1,4 @@
-# User Management System
+# Univrsity Event Management
 
 ## Table of Contents
 
